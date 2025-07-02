@@ -116,4 +116,3 @@ with col1:
     ]
     st.dataframe(filtered_reco, use_container_width=True)
 
-    st.caption("Демо-версия. Данные и прогнозы сгенерированы автоматически.") 
