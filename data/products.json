@@ -1,0 +1,48 @@
+{
+  "tshirtwhite": {
+    "title": "Футболка хлопок однотонная базовая",
+    "article": "tshirtwhite",
+    "quantity_in_set": 1,
+    "wb_code": "76280452",
+    "orders": 5046,
+    "orders_change": 347,
+    "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+    "default_size": "M",
+    "monthly_plan": null,
+    "daily_plan": null,
+    "abc_category": "A",
+    "cost_price": 495.00,
+    "photo_url": "https://via.placeholder.com/150x150?text=Футболка"
+  },
+  "jeansdark": {
+    "title": "Джинсы темно-синие классические",
+    "article": "jeansdark",
+    "quantity_in_set": 1,
+    "wb_code": "76280453",
+    "orders": 3245,
+    "orders_change": -125,
+    "sizes": ["28", "30", "32", "34", "36", "38", "40"],
+    "default_size": "32",
+    "monthly_plan": 3500,
+    "daily_plan": 115,
+    "abc_category": "B",
+    "cost_price": 1250.00,
+    "photo_url": "https://via.placeholder.com/150x150?text=Джинсы"
+  },
+  "sneakerswhite": {
+    "title": "Кроссовки белые спортивные",
+    "article": "sneakerswhite",
+    "quantity_in_set": 1,
+    "wb_code": "76280454",
+    "orders": 1876,
+    "orders_change": 89,
+    "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44"],
+    "default_size": "40",
+    "monthly_plan": 2000,
+    "daily_plan": 65,
+    "abc_category": "C",
+    "cost_price": 2100.00,
+    "photo_url": "https://via.placeholder.com/150x150?text=Кроссовки"
+  }
+}
+

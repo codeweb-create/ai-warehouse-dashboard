@@ -1,0 +1,48 @@
+{
+  "tshirtwhite": {
+    "name": "Футболки",
+    "cost_price": 495.00,
+    "wb_warehouse": 0,
+    "to_client": 1577,
+    "from_client": 566,
+    "own_warehouses": 3500,
+    "in_transit": 15510,
+    "expected_delivery": "30.08.25",
+    "total_value": 14975221,
+    "avg_sales_period": "день",
+    "days_remaining": 1497,
+    "end_date": "08.04.2029",
+    "last_update": "23 минуты назад"
+  },
+  "jeansdark": {
+    "name": "Джинсы",
+    "cost_price": 1250.00,
+    "wb_warehouse": 245,
+    "to_client": 892,
+    "from_client": 123,
+    "own_warehouses": 1200,
+    "in_transit": 5000,
+    "expected_delivery": "15.09.25",
+    "total_value": 8750000,
+    "avg_sales_period": "день",
+    "days_remaining": 890,
+    "end_date": "12.02.2027",
+    "last_update": "1 час назад"
+  },
+  "sneakerswhite": {
+    "name": "Кроссовки",
+    "cost_price": 2100.00,
+    "wb_warehouse": 156,
+    "to_client": 234,
+    "from_client": 45,
+    "own_warehouses": 800,
+    "in_transit": 2500,
+    "expected_delivery": "05.09.25",
+    "total_value": 5250000,
+    "avg_sales_period": "день",
+    "days_remaining": 567,
+    "end_date": "28.08.2026",
+    "last_update": "45 минут назад"
+  }
+}
+
